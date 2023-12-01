@@ -1,2 +1,2 @@
 # things
-Some links and things I need to "pass" to other computers.
+Some things and files I need to "send" to other computers.
